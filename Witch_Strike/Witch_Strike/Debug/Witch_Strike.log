@@ -1,18 +1,20 @@
 ﻿  main.cpp
-C:\K020G1117\DL1\Witch_Strike\Witch_Strike\main.cpp(33,12): warning C4244: '引数': 'time_t' から 'unsigned int' への変換です。データが失われる可能性があります。
-C:\K020G1117\DL1\Witch_Strike\Witch_Strike\main.cpp(80,45): warning C4805: '==': 演算中の 'int' 型と 'bool' 型の混用は安全ではありません
-C:\K020G1117\DL1\Witch_Strike\Witch_Strike\main.cpp(124,6): warning C4805: '==': 演算中の 'int' 型と 'bool' 型の混用は安全ではありません
-C:\K020G1117\DL1\Witch_Strike\Witch_Strike\main.cpp(262,6): warning C4805: '==': 演算中の 'char' 型と 'bool' 型の混用は安全ではありません
-C:\K020G1117\DL1\Witch_Strike\Witch_Strike\main.cpp(267,6): warning C4805: '==': 演算中の 'char' 型と 'bool' 型の混用は安全ではありません
-C:\K020G1117\DL1\Witch_Strike\Witch_Strike\main.cpp(272,6): warning C4805: '==': 演算中の 'char' 型と 'bool' 型の混用は安全ではありません
-C:\K020G1117\DL1\Witch_Strike\Witch_Strike\main.cpp(277,6): warning C4805: '==': 演算中の 'char' 型と 'bool' 型の混用は安全ではありません
-C:\K020G1117\DL1\Witch_Strike\Witch_Strike\main.cpp(298,6): warning C4805: '==': 演算中の 'char' 型と 'bool' 型の混用は安全ではありません
-C:\K020G1117\DL1\Witch_Strike\Witch_Strike\main.cpp(298,6): warning C4805: '!=': 演算中の 'char' 型と 'bool' 型の混用は安全ではありません
-C:\K020G1117\DL1\Witch_Strike\Witch_Strike\main.cpp(313,6): warning C4805: '==': 演算中の 'char' 型と 'bool' 型の混用は安全ではありません
-C:\K020G1117\DL1\Witch_Strike\Witch_Strike\main.cpp(330,6): warning C4805: '==': 演算中の 'char' 型と 'bool' 型の混用は安全ではありません
-C:\K020G1117\DL1\Witch_Strike\Witch_Strike\main.cpp(336,6): warning C4805: '==': 演算中の 'char' 型と 'bool' 型の混用は安全ではありません
-C:\K020G1117\DL1\Witch_Strike\Witch_Strike\main.cpp(336,64): warning C4805: '!=': 演算中の 'char' 型と 'bool' 型の混用は安全ではありません
-C:\K020G1117\DL1\Witch_Strike\Witch_Strike\main.cpp(513,79): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
-C:\K020G1117\DL1\Witch_Strike\Witch_Strike\main.cpp(564,6): warning C4805: '==': 演算中の 'int' 型と 'bool' 型の混用は安全ではありません
-C:\K020G1117\DL1\Witch_Strike\Witch_Strike\main.cpp(576,18): warning C4244: '=': 'double' から 'int' への変換です。データが失われる可能性があります。
-  Witch_Strike.vcxproj -> C:\K020G1117\DL1\Witch_Strike\Debug\Witch_Strike.exe
+F:\Dev\GitHub\WitchStrike\Witch_Strike\Witch_Strike\main.cpp(33,12): warning C4244: '引数': 'time_t' から 'unsigned int' への変換です。データが失われる可能性があります。
+F:\Dev\GitHub\WitchStrike\Witch_Strike\Witch_Strike\main.cpp(80,45): warning C4805: '==': 演算中の 'int' 型と 'bool' 型の混用は安全ではありません
+F:\Dev\GitHub\WitchStrike\Witch_Strike\Witch_Strike\main.cpp(124,6): warning C4805: '==': 演算中の 'int' 型と 'bool' 型の混用は安全ではありません
+F:\Dev\GitHub\WitchStrike\Witch_Strike\Witch_Strike\main.cpp(264,6): warning C4805: '==': 演算中の 'char' 型と 'bool' 型の混用は安全ではありません
+F:\Dev\GitHub\WitchStrike\Witch_Strike\Witch_Strike\main.cpp(269,6): warning C4805: '==': 演算中の 'char' 型と 'bool' 型の混用は安全ではありません
+F:\Dev\GitHub\WitchStrike\Witch_Strike\Witch_Strike\main.cpp(274,6): warning C4805: '==': 演算中の 'char' 型と 'bool' 型の混用は安全ではありません
+F:\Dev\GitHub\WitchStrike\Witch_Strike\Witch_Strike\main.cpp(279,6): warning C4805: '==': 演算中の 'char' 型と 'bool' 型の混用は安全ではありません
+F:\Dev\GitHub\WitchStrike\Witch_Strike\Witch_Strike\main.cpp(300,6): warning C4805: '==': 演算中の 'char' 型と 'bool' 型の混用は安全ではありません
+F:\Dev\GitHub\WitchStrike\Witch_Strike\Witch_Strike\main.cpp(300,6): warning C4805: '!=': 演算中の 'char' 型と 'bool' 型の混用は安全ではありません
+F:\Dev\GitHub\WitchStrike\Witch_Strike\Witch_Strike\main.cpp(315,6): warning C4805: '==': 演算中の 'char' 型と 'bool' 型の混用は安全ではありません
+F:\Dev\GitHub\WitchStrike\Witch_Strike\Witch_Strike\main.cpp(332,6): warning C4805: '==': 演算中の 'char' 型と 'bool' 型の混用は安全ではありません
+F:\Dev\GitHub\WitchStrike\Witch_Strike\Witch_Strike\main.cpp(338,6): warning C4805: '==': 演算中の 'char' 型と 'bool' 型の混用は安全ではありません
+F:\Dev\GitHub\WitchStrike\Witch_Strike\Witch_Strike\main.cpp(338,64): warning C4805: '!=': 演算中の 'char' 型と 'bool' 型の混用は安全ではありません
+F:\Dev\GitHub\WitchStrike\Witch_Strike\Witch_Strike\main.cpp(515,79): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+F:\Dev\GitHub\WitchStrike\Witch_Strike\Witch_Strike\main.cpp(566,6): warning C4805: '==': 演算中の 'int' 型と 'bool' 型の混用は安全ではありません
+F:\Dev\GitHub\WitchStrike\Witch_Strike\Witch_Strike\main.cpp(578,18): warning C4244: '=': 'double' から 'int' への変換です。データが失われる可能性があります。
+  MayuUtility.h
+  コードを生成中...
+  Witch_Strike.vcxproj -> F:\Dev\GitHub\WitchStrike\Witch_Strike\Debug\Witch_Strike.exe
